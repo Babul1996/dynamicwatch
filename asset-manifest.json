@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamicwatch/static/css/main.2af17235.css",
+    "main.js": "/dynamicwatch/static/js/main.192cad92.js",
+    "index.html": "/dynamicwatch/index.html",
+    "main.2af17235.css.map": "/dynamicwatch/static/css/main.2af17235.css.map",
+    "main.192cad92.js.map": "/dynamicwatch/static/js/main.192cad92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af17235.css",
+    "static/js/main.192cad92.js"
+  ]
+}
